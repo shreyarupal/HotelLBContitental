@@ -18,6 +18,7 @@
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
+                <!-- this is atest comment -->
 <!--                  <div class="col-sm-4 subscribe">
                     <h4>Subscription</h4>
                     <div class="input-group">
