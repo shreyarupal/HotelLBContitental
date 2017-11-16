@@ -1,24 +1,25 @@
-
-
-
-
 <footer class="spacer">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
                     <h4>L.B.Continental</h4>
-                    <p>L.B.Continental was these three and songs arose whose. Of in vicinity contempt together in possible branched. Assured company hastily looking garrets in oh. Most have love my gone to this so. Discovered interested prosperous the our affronting insipidity day. Missed lovers way one vanity wishes nay but. Use shy seemed within twenty wished old few regret passed. Absolute one hastened mrs any sensible. </p>
+                     <ul>
+                        <li>ROOMS AVAILABLE ON MONTHLY BASIS</li><br>
+                        <li>SPECIAL DISCOUNTS FOR STUDENTS AND WORKING WOWEN</li><br>
+                        <li>PRIME LOCATION</li><br>
+                    </ul>
+                  
+                   <!--  <p>L.B.Continental was these three and songs arose whose. Of in vicinity contempt together in possible branched. Assured company hastily looking garrets in oh. Most have love my gone to this so. Discovered interested prosperous the our affronting insipidity day. Missed lovers way one vanity wishes nay but. Use shy seemed within twenty wished old few regret passed. Absolute one hastened mrs any sensible. </p> -->
                 </div>              
                  
                  <div class=" col-sm-3 col-sm-offset-2">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled">
-                        <li><a href="introduction.php">Introduction</a></li>
+                        <li><a href="introduction.php">About Us</a></li>
                         <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
-                <!-- this is atest comment -->
 <!--                  <div class="col-sm-4 subscribe">
                     <h4>Subscription</h4>
                     <div class="input-group">

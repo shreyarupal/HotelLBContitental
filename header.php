@@ -66,15 +66,15 @@
       
       <ul class="nav navbar-nav">        
         <li><a href="index.php">Home </a></li>
-        <li><a href="introduction.php">Introduction</a></li>
+        <li><a href="introduction.php">About Us</a></li>
         <li><a href="gallery.php">Gallery</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
       </ul>
     </div><!-- Wnavbar-collapse -->
     <div class="row" style="display:inline ; margin: 20px 10px 20px 10px ;">
-    <div class=" nav col-sm-8 col-sm-offset-2">
-      <div class="row"> <b>L.B.CONTINENTAL</b><br><br> R.D.COMPLEX, CLUB ROAD KALYANI, MUZAFFARPUR, BIHAR. TEL: +91-9334579951
-      </div>
+    <div class=" nav col-sm-8">
+      <b><br><br> R.D.COMPLEX, CLUB ROAD KALYANI, MUZAFFARPUR, BIHAR. TEL: +91-9334579951</b>
+      
     </div>      
     </div>
   </div><!-- container-fluid -->

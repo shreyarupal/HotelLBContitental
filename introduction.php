@@ -1,18 +1,27 @@
 <?php include 'header.php';?>
 <div class="container">
 
-       <h1 class="title">Introduction</h1>
+       <h1 class="title">About Us</h1>
        <div class="row">
-       
-              <div class="col-sm-6">
-       		  <h3 class="title">Sub Introduction</h1>
-              <p>Dry stout aau pilsner. bock cold filter lauter tun specific gravity degrees plato ibu cold filter. brew kettle crystal malt, hard cider ipa bright beer caramel malt. pitching aerobic keg finishing hops pub units of bitterness.
-              <p>Aaroma hops ester becher, terminal gravity. crystal malt top-fermenting yeast carbonation dry stout cask conditioning. abv ester cask conditioned ale dry stout, attenuation bottom fermenting yeast. scotch ale wheat beer glass saccharification crystal malt. top-fermenting yeast hydrometer, degrees plato chocolate malt. wit dunkle, grainy aerobic kolsch; draft (draught) real ale.</p></div>
 
-              <div class="col-sm-4">
-              <h3 class="title">Sub Introduction</h1>
-              <p>Dry stout aau pilsner. bock cold filter lauter tun specific gravity degrees plato ibu cold filter. brew kettle crystal malt, hard cider ipa bright beer caramel malt. pitching aerobic keg finishing hops pub units of bitterness.</p></div>
-       </div>
+       <div>
+                     <h3 class="title">Features</h3>
+                     <ul>
+                         <li>Rooms available on montly basis</li><br>
+                         <li>Special discounts for students and working wowen</li><br>
+                         <li>Prime location</li><br>
+                         <li>24/7 Working hours </li><br>
+                         <li>Lift facility</li><br>
+                         <li>Wifi enabled</li><br>
+                         <li>Doctor on call</li><br>
+                         <li>Restaurant Facilities</li><br>
+                         <li>Special parking facilities</li><br>
+                         <li>Small and big Banquet halls (AC and Non-AC)</li><br>
+                         <li>Wedding, Birthday Parties, Conferences, Corporate meetings, Get-togethers</li><br>
+                  </ul>
+
+           </div>
+    </div>
 
 </div>
 <?php include 'footer.php';?>
