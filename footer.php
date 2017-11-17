@@ -5,7 +5,7 @@
                     <h4>L.B.Continental</h4>
                      <ul>
                         <li>ROOMS AVAILABLE ON MONTHLY BASIS</li><br>
-                        <li>SPECIAL DISCOUNTS FOR STUDENTS AND WORKING WOWEN</li><br>
+                        <li>SPECIAL DISCOUNTS FOR STUDENTS AND WORKING WOMEN</li><br>
                         <li>PRIME LOCATION</li><br>
                     </ul>
                   

@@ -7,8 +7,8 @@
        <div>
                      <h3 class="title">Features</h3>
                      <ul>
-                         <li>Rooms available on montly basis</li><br>
-                         <li>Special discounts for students and working wowen</li><br>
+                         <li>Rooms available on monthly basis</li><br>
+                         <li>Special discounts for students and working women</li><br>
                          <li>Prime location</li><br>
                          <li>24/7 Working hours </li><br>
                          <li>Lift facility</li><br>
